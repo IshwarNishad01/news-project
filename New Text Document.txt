@@ -1,0 +1,5 @@
+unlink() - used for delete files from local desktop
+mysqli_multi_query() - used for multiple queries on same time
+substr() used for read more option
+LIKE used for searching 
+basename used for page title

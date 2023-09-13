@@ -1,0 +1,24 @@
+1. user table
+
+user-id
+first-name
+last-name
+user-name
+password
+role
+
+2. category table
+
+category-id
+category-name
+post
+
+3. post table
+
+post-id
+post-title
+post-description
+post-date
+post-image
+category
+author
